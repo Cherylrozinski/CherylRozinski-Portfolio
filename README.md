@@ -1,4 +1,4 @@
-# CherylRozinski-Portfolio https://cherylrozinski.github.io/CherylRozinski-Portfolio/
+# CherylRozinski-Portfolio 
 This is my public portfolio for the Telling Stories with Data at CMU! 
 
 # About me 
