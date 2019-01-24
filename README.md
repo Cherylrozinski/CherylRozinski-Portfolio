@@ -11,6 +11,9 @@ I hope to develop my ability to create and critique data visualizations. I also 
 
 # Portfolio
 
+# Farm data using Data Wrapper
+I need access to the excel sheet to update this. 
+
 # Passengers on the Titanic
 The number of passengers who survived and died on the titanic by whether they got on a boat, their gender, and their class. 
 
