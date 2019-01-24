@@ -22,5 +22,6 @@ The number of passengers who survived and died on the titanic by whether they go
 # San Francisco Street Cleaning data
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3AXs4bFYwejCV-vpZU2BfGK5vA2OaVMOIgp-PvUxUHLQ09zmdCmjs6L2xFZN_q9tW_nyHDrIDY_RJ/pubchart?oid=1680405161&amp;format=interactive"></iframe>
 I re-created exhibit 2 from a report on the Street Cleaning spending in San Francisco (reference below). The point of my recreation is to show how easy it is to make excellent data visualizations using google sheets.
+
 Reference: City and County of San Francisco Budget and Legislative Analyst's Office, "Policy Analysis Report". June 25, 2018.  Accessed November 20, 2018. 
 https://sfbos.org/sites/default/files/BLA_Report_Street_Cleaning_Cost_Survey_062518.pdf (Links to an external site.)
