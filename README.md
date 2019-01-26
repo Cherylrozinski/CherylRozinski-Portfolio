@@ -25,3 +25,6 @@ I re-created exhibit 2 from a report on the Street Cleaning spending in San Fran
 
 Reference: City and County of San Francisco Budget and Legislative Analyst's Office, "Policy Analysis Report". June 25, 2018.  Accessed November 20, 2018. 
 https://sfbos.org/sites/default/files/BLA_Report_Street_Cleaning_Cost_Survey_062518.pdf (Links to an external site.)
+
+# General Government Debt 
+<iframe src="https://data.oecd.org/chart/5s1n" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5s1n" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
