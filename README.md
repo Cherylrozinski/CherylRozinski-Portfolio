@@ -55,6 +55,7 @@ The table failed in its perceptibility and engagement, which are two critical fa
 
 # My wireframe 
 [![Wireframe.jpg](https://i.postimg.cc/8c1c7zqn/Wireframe.jpg)](https://postimg.cc/ftrDFDWx)
+# My process
 I created this wireframe to test with viewers. With this wireframe, I was hoping that viewers would better be able to see the gaps in each category, which would help inspire their concern for our infrastructure gaps. I also changed the title to be clearer. 
 While my users could quickly understand what the chart was getting across, they were concerned with its lack of proportionality, it’s overwhelming amount of numbers, and its thin bars. However, I really appreciated how each viewer inquired to understand more about this gap. They all were surprised at these projections and wanted to understand what this means for US society. We had great conversations.  
 Two pieces of input that I decided not to take given the audience were to come up with a ratio to signify the gap instead of the total column and show the current funding vs. estimated gap. I did not take the first piece of advice because I felt I already had too many numbers and wanted to remove some. I also did not want my viewers to have to do extra work of figuring out what a 1.1 gap means. I did not take the second piece of advice because it would have skewed my entire chart and taken away from the most important message – that surface transportation needs urgent investment. 
