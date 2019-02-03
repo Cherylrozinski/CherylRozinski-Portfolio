@@ -46,5 +46,14 @@ Both the general government debt and the size of government debt graphics are mo
 [![ASCE-image.jpg](https://i.postimg.cc/QdM760Yn/ASCE-image.jpg)](https://postimg.cc/jLGC2Qbz)
 
 Citation: “Cumulative Infrastructure Needs by System Based on Current Trends, Extended to 2025." ASCE's 2017 Infrastructure Report Card. Accessed January 31, 2019. https://www.infrastructurereportcard.org/the-impact/economic-impact/.
-# 
+# Why did I choose this image?
 I am currently in a Systems Synthesis project where we are creating a new program to administer municipal infrastructure bonds to help solve some of the problems outlined in this table. When I first saw this table, I had to do a lot of data manipulation and formatting to make meaning of the numbers. I wished that this same information was visualized in a way that would be more interpretable, perceptible, and engaging for the readers. I decided to visualize this data differently with the hope that it will help my team and my result will possibly be included in our report. 
+
+# My reflection on the images failures + how I applied the critique method
+
+The table failed in its perceptibility and engagement, which are two critical factors in the Effectiveness Profile. As I considered how I would more effectively redesign this visualization, I focused on ensuring that the reader could understand the information with minimal effort, which I knew I could accomplish with a more effective chart type. I also wanted to make sure that the comparisons between categories were logical and easy to see. Finally, I knew that if I could make the chart more perceptible, there would be a better chance that the audience would be interested in learning more about the critical issue displayed on the chart. 
+
+# My wireframe 
+[![Wireframe.jpg](https://i.postimg.cc/8c1c7zqn/Wireframe.jpg)](https://postimg.cc/ftrDFDWx)
+
+
