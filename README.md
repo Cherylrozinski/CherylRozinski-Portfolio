@@ -56,4 +56,6 @@ The table failed in its perceptibility and engagement, which are two critical fa
 # My wireframe 
 [![Wireframe.jpg](https://i.postimg.cc/8c1c7zqn/Wireframe.jpg)](https://postimg.cc/ftrDFDWx)
 
+# Final Data Visualization 
+<iframe id="datawrapper-chart-ZGnrK" src="//datawrapper.dwcdn.net/ZGnrK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="507"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
