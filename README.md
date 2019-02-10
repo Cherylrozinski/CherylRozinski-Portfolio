@@ -1,5 +1,7 @@
 # CherylRozinski-Portfolio 
 This is my public portfolio for the Telling Stories with Data at CMU! 
+# Final Project
+Here's a sentence with [text you want to link from](final_project_CherylRozinski.md)
 
 # About me 
 Hello, I am a second year MSPPM student. On campus, I serve as a Teaching Assistant for Business Communication in Tepper, and as a communication consultant at the Global Communication Center. Before studying at Heinz college, I earned my Bachelor of Business Administration from Saint Joseph’s University. 
