@@ -1,7 +1,7 @@
 # Summary
 The lack of funding invested in U.S. infrastructure is exasperated by the lack of transparency, cumbersome fees, and mismanagement of municipal infrastructure bonds. I will explain the status quo of infrastructure, shed light on the problems, and promote/foreshadow my Systems teams proposed solution (to be published in May 2019). 
 # Story Arc
-![](StoryArc.jpg)
+![StoryArc](StoryArc.jpg)
 
 As you can see, my viewers will start with neutral feelings, immediately see staggering (and sad) numbers and be presented with harsh forecasts. Then, we will dig deeper into the problems and causes of our infrastructure failures. Finally, their mood may swing back up to neutral when I present a glimmer of hope (our project). 
 # Story Structure
