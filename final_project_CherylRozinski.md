@@ -1,7 +1,6 @@
 # Summary
 The lack of funding invested in U.S. infrastructure is exasperated by the lack of transparency, cumbersome fees, and mismanagement of municipal infrastructure bonds. I will explain the status quo of infrastructure, shed light on the problems, and promote/foreshadow my Systems teams proposed solution (to be published in May 2019). 
 # Story Arc
-https://ibb.co/bgh2qZH
 ![](StoryArc.jpg)
 
 As you can see, my viewers will start with neutral feelings, immediately see staggering (and sad) numbers and be presented with harsh forecasts. Then, we will dig deeper into the problems and causes of our infrastructure failures. Finally, their mood may swing back up to neutral when I present a glimmer of hope (our project). 
@@ -37,8 +36,12 @@ For the stories and images to show the state of the infrastructure problem, I wi
 In addition, I will browse media and podcasts to see if there are any powerful voices talking about this problem, who I might be able to embed a quote from using http://soundcite.knightlab.com/ .
 I will make my graphs in **Datawrapper,** and my infographic in **Infogram.** 
 To put the entire presentation together, I will use **Shorthand.**
-# Shorthand Tips to Incorporate:
-# Planning Tips: 1) Break the story down (above), 2) Start beyond a front cover (with maximize impact), 3) Never ending engagement (call to action), 4) Deadlines (build in time for feedback), 5) Flow & Focus (to ensure it’s easy to follow), 6) Performance (make sure my media is viewable on devices), 7) Use media & interactivity with meaning (must bring something to the story), 8) Using Word (check formatting or save as plain text), 
-# Design Tips: 1) Start simple (clean with headers), 2) Mobile based use, 3) Headers & pull-quotes to add signals (chunked), 4) Style consistency, 5) Watch the eyes of people/animals (don’t cover)
-# Publishing Tips: 1) Confident with hosting process (ask questions to TA/Professor if needed), 2) Analytics (data to track)
-# Promotion Tips: 1) Thinking beyond the headline (build up an audience, clue or question that entices reader to step into the story, quote cards, moving gifs) 
+# Shorthand Tips to Incorporate
+# Planning Tips
+1) Break the story down (above), 2) Start beyond a front cover (with maximize impact), 3) Never ending engagement (call to action), 4) Deadlines (build in time for feedback), 5) Flow & Focus (to ensure it’s easy to follow), 6) Performance (make sure my media is viewable on devices), 7) Use media & interactivity with meaning (must bring something to the story), 8) Using Word (check formatting or save as plain text), 
+# Design Tips
+1) Start simple (clean with headers), 2) Mobile based use, 3) Headers & pull-quotes to add signals (chunked), 4) Style consistency, 5) Watch the eyes of people/animals (don’t cover)
+# Publishing Tips
+1) Confident with hosting process (ask questions to TA/Professor if needed), 2) Analytics (data to track)
+# Promotion Tips 
+1) Thinking beyond the headline (build up an audience, clue or question that entices reader to step into the story, quote cards, moving gifs) 
