@@ -68,7 +68,7 @@ Graphs:
 
 # d. Interview Findings 
 
-# Infogram: 
+# Infogram
 •	Broad bullet points of the plan
 •	Be more concise in the “to ensure” statements. 
 •	Add an example to the bonds useful life proposal. Possibly move the useful life bullet to the first point because it explains the bonds. 
@@ -79,14 +79,14 @@ Graphs:
 •	Add billions of dollars
 Shorthand text: Severe Gaps don’t match “what does this mean people?”  delete most severe gaps sentence? Or add a connecting sentence (other concerns).
 
-# Bond Issuance flow charts: 
+# Bond Issuance flow charts
 •	Need to add key on what the lines mean
 •	Inv = investor
 •	Switch order of “Mayor” and “public authority” 
 •	Possibly based this off of an example
 •	Add assumptions to graphic
 
-# Bonds by type: 
+# Bonds by type
 •	Add a clearer definition of each type of bond 
 •	Add a clearer x-axis label – include the months at the bottom.
 •	Add a clearer y-axis key or percentage?
