@@ -48,6 +48,7 @@ To put the entire presentation together, I will use **Shorthand.**
 1) Thinking beyond the headline (build up an audience, clue or question that entices reader to step into the story, quote cards, moving gifs) 
 
 # Part II 
+Shorthand Preview: https://preview.shorthand.com/QBW1ihFshlkR306i
 # a. Target Audience
 The target audience of my proposal is Congress. I want them to understand the urgency needed in their response to the state of our infrastructure. I also want them to realize that the financing structures are one of the key problems causing our infrastructure challenges. 
 
