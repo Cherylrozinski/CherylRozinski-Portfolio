@@ -113,7 +113,7 @@ I implemented the outlined changes and more that were shared with me during subs
 
 # Part III. Final Data Story 
 # Intended Audience & Persona 
-As stated above, the intended audience is Congress. However, there are so many more stakeholder groups that this project could reach before Congress. For example, our Systems team would like to use this shorthand story to share with non-experts (from the general public and other Heinz Students) to help them understand the basic content and importance of our report. We can assume that everyone looking at this will have some level of awareness of financial markets, and at least a bachelors degree. 
+As stated above, the intended audience is Congress. However, there are so many more stakeholder groups that this project could reach before Congress. For example, our Systems team would like to use this shorthand story to share with non-experts (specifically other Heinz Students) to help them understand the basic content and importance of our report. We can assume that everyone looking at this will have some level of awareness of financial markets, and at least a bachelors degree. 
 
 Given this information, I will describe 2 personas -- elected officials and the general public. 
 
@@ -121,9 +121,24 @@ Given this information, I will describe 2 personas -- elected officials and the 
 Purpose: To understand why the QMIB proposal must be adopted if we want to better fund infrastructure. 
 Goals: To present the content in a way that feels approachable, interesting, engaging, and that makes the reader want to review each portion. 
 Personal: Congressional members are between 29 and 80+ with an average age of 57.8 for the House and 61.8 for the Senate. 21.2% are female and the rest are male. All Senators hold Bachelors degrees and 94.1% of House members do, while 76% of Senators and 16% of House members hold degress beyond a Bachelors. 
-Professional: The most frequent previous occupations of Congressional members are - public service, business, law, and education. They will come to the site to help them make a decision about whether to sponsor, support, or oppose our QMIB proposal. Their staff also may be the primary readers and choose what inforamtion from our site to share. They will access the site from government computers, so we will need to confirm that shorthand is not blocked. Some may look on their phones, although that would likely only be if they had to vote on our proposal, in which case we will create a more robust information package. 
+Professional: The most frequent previous occupations of Congressional members are - public service, business, law, and education. They will come to the site to help them make a decision about whether to sponsor, support, or oppose our QMIB proposal. Their staff also may be the primary readers and choose what inforamtion from our site to share. They will access the site from government computers, so we will need to confirm that shorthand is not blocked. Some may look on their phones, although that would likely only be if they had to vote on our proposal, in which case we will create a more robust information package. They may get some information about this from the local governments that they represent who may not be in support. However, we highlight that partaking is optional, so we do not expect this to hinder their decisions. 
+Technical: Most Congress members have phones and use laptops. They also likely read a lot of media reports, so presenting the content visually - in a way that they are used to seeing on the NYTimes or other news outlets - will likely feel familiar and comfortable for them. My guess is that many Congressional members do not browse through the web, but instead are sent direct links, stories, or sites to look at with directions on what to look for. 
+User Motivation: Congressional members are motivated by proposals that will help their constituents. We believe this proposal will save taxpayer dollars and help constituents. They are looking for a reason to support the proposal and looking to see that their support is low risk (meaning that it will not come back to bite them). 
+Source of Information: https://fas.org/sgp/crs/misc/R44762.pdf
+
+# Persona #2 - General Public / Heinz College stakeholders 
+Purpose: to help them understand the basic content and importance of our report.
+Goals: these viewers are able to digest this information and begin to ask questions.
+Personal: Most Heinz College viewers will be between the ages of 23 and 35, with diverse cultural and country background. They will be pursuing masters degrees in public policy or info systems and have an excellent understand of the impact of data on public-sector decisions. 
+Professional: Most Heinz College viewers will have 0 - 10 years of work experience in various industries. They will bring diverse perspectives to our work and likely be able to ask meaningful questions that help us notice areas that we missed. They will come to the site out of support for the work we are doing and out of curiousity about our progress. They will have some knowledge of social impact bonds, local government financial practices, and accounting practices from previous courses. They will access this site on their computer as it will be sent in a direct email to them. 
+Technical: Heinz College students are very technially savvy and use multiple robust software applications on a regular basis. They access the web on their computers. 
+User Motivation: Heinz College students are motivated by their interest in the topic, and their desire to support their peers. They are also generally driven by the process of gaining knowledge. 
+
+Given these two personas, I created a problem --> solution story. I started very broad with the problem with infrastructure and linked in to the emotions of my viewer. Then, I presented all of the problems with the municipal bond market by using visual graphics to explain these issues. I also simplified the concepts (and tried to add metaphorical language) to make sure that my viewers could understand each idea. I gained lots of feedback from "general public" members who do not have much experience in the bond market to help me accomplish this objective. I also tried to create a summary line (in the problems) followed by a description and the same in the solutions. These brief summaries helped my readers get bite sized information on concepts that they already understand and then read on when they do not know much about the topic. In addition, to help my viewers understand the story more clearly, I broke it into 3 parts so that they could easily see my transitions. Finally, by numbering the problems and solutions, viewers can easily see the connection between the dense material. 
 
 # Design Decisions 
+
+
 # Reflection through the Process
 # Link to Final Data Story 
 
