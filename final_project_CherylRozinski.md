@@ -109,5 +109,22 @@ Shorthand text: Severe Gaps don’t match “what does this mean people?”  
 
 
 # e. Implemented Changes
-Due to time constraints (and an ability to get meetings with my systems team and professor), I did not finish these interviews until Monday evening. However, given the user feedback, I plan to implement the outlined changes by Wednesday. 
+I implemented the outlined changes and more that were shared with me during subsequent interviews. For example, I met with a GCC tutor who helped me better tell a story about the problems with the municipal bond market. She helped me brainstorm how I could use approachable language to describe the problems, and how I could visualize each problem. 
+
+# Part III. Final Data Story 
+# Intended Audience & Persona 
+As stated above, the intended audience is Congress. However, there are so many more stakeholder groups that this project could reach before Congress. For example, our Systems team would like to use this shorthand story to share with non-experts (from the general public and other Heinz Students) to help them understand the basic content and importance of our report. We can assume that everyone looking at this will have some level of awareness of financial markets, and at least a bachelors degree. 
+
+Given this information, I will describe 2 personas -- elected officials and the general public. 
+
+# Persona #1 - Congress/Elected Officals
+Purpose: To understand why the QMIB proposal must be adopted if we want to better fund infrastructure. 
+Goals: To present the content in a way that feels approachable, interesting, engaging, and that makes the reader want to review each portion. 
+Personal: Congressional members are between 29 and 80+ with an average age of 57.8 for the House and 61.8 for the Senate. 21.2% are female and the rest are male. All Senators hold Bachelors degrees and 94.1% of House members do, while 76% of Senators and 16% of House members hold degress beyond a Bachelors. 
+Professional: The most frequent previous occupations of Congressional members are - public service, business, law, and education. They will come to the site to help them make a decision about whether to sponsor, support, or oppose our QMIB proposal. Their staff also may be the primary readers and choose what inforamtion from our site to share. They will access the site from government computers, so we will need to confirm that shorthand is not blocked. Some may look on their phones, although that would likely only be if they had to vote on our proposal, in which case we will create a more robust information package. 
+
+# Design Decisions 
+# Reflection through the Process
+# Link to Final Data Story 
+
 
