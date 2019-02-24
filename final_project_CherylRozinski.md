@@ -137,9 +137,12 @@ User Motivation: Heinz College students are motivated by their interest in the t
 Given these two personas, I created a problem --> solution story. I started very broad with the problem with infrastructure and linked in to the emotions of my viewer. Then, I presented all of the problems with the municipal bond market by using visual graphics to explain these issues. I also simplified the concepts (and tried to add metaphorical language) to make sure that my viewers could understand each idea. I gained lots of feedback from "general public" members who do not have much experience in the bond market to help me accomplish this objective. I also tried to create a summary line (in the problems) followed by a description and the same in the solutions. These brief summaries helped my readers get bite sized information on concepts that they already understand and then read on when they do not know much about the topic. In addition, to help my viewers understand the story more clearly, I broke it into 3 parts so that they could easily see my transitions. Finally, by numbering the problems and solutions, viewers can easily see the connection between the dense material. 
 
 # Design Decisions 
+The hardest decisions throughout this process was story structure and order of content. It was difficult to figure out how to best place the many problems to maximize viewer comprehension. I used a process of writing each problem on a slip of paper and working with a communication tutor to place them in an order that made sense to both of us (given our very different levels of expertise and investment in the project). In addtion, there were 4 problems that I struggled to visualize, especially in a way that would aid viewer comprehension. To solve this problem, I sketched out many diagrams and sought initial feelback to get to something that would aid viewer comprehension.  
 
 
 # Reflection through the Process
+The most valuable lesson that I learned is the power of getting feedback from different types of stakeholders - from people with no knowledge of the content to experts (Professor Strauss). I also gained a lot from the iterative process of getting feedback multiple times from more important stakeholders. 
+
 # Link to Final Data Story 
 
 
