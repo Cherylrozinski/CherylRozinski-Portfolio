@@ -115,7 +115,7 @@ I implemented the outlined changes and more that were shared with me during subs
 # Intended Audience & Persona 
 As stated above, the intended audience is Congress. However, there are so many more stakeholder groups that this project could reach before Congress. For example, our Systems team would like to use this shorthand story to share with non-experts (specifically other Heinz Students) to help them understand the basic content and importance of our report. We can assume that everyone looking at this will have some level of awareness of financial markets, and at least a bachelors degree. 
 
-Given this information, I will describe 2 personas -- elected officials and the general public. 
+Given this information, I will describe 2 personas -- elected officials and Heinz college students. 
 
 # Persona #1 - A Congressional Member or Elected Officals
 Purpose: To understand why the QMIB proposal must be adopted if we want to better fund infrastructure. 
